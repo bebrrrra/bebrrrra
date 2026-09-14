@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bebrrrra
-- 👀 I’m interested in computer games
-- 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Python, C++ and Java
 - 📫 How to reach me mvk635@gmail.com
 
 <!---
